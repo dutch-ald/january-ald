@@ -1,1 +1,2 @@
-master node is responsible for managmet of worker node
+master node is responsible 
+for managmet of worker -master node
