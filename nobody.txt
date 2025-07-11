@@ -1,4 +1,3 @@
 
-this is knp branch for jira
-this is master branch for knp
+this is knp branch for jira and knp 
 
