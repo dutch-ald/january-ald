@@ -1,1 +1,1 @@
-this is main's line 
+this is merged line from feature and main 
